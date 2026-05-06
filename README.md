@@ -1,16 +1,40 @@
-# React + Vite
+# 🎓 Sistem Input Nilai Sekolah (Academic Grade System)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sistem manajemen nilai akademik berbasis web yang modern dan responsif. Aplikasi ini dirancang untuk memudahkan tenaga pengajar dalam mengelola data kelas, siswa, mata pelajaran, serta mengotomatisasi penginputan nilai dan pembuatan laporan hasil belajar (Rapor) dalam format PDF yang siap cetak.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Cuplikan Layar (Screenshots)
 
-## React Compiler
+### 🖥️ Antarmuka Login
+Halaman masuk dengan desain minimalis dan gradien modern untuk memberikan pengalaman pengguna yang elegan.
+![Halaman Login](./screenshots/login.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📊 Dashboard Statistik
+Panel kendali yang menyajikan ringkasan data akademik secara visual, memudahkan pemantauan total siswa, kelas, dan progres input nilai.
+![Dashboard Utama](./screenshots/dashboard.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Fitur Unggulan
+
+- **📊 Dashboard Dinamis:** Menampilkan statistik real-time jumlah siswa, kelas, dan mata pelajaran.
+- **📁 Manajemen Data Master:** Sistem CRUD (Create, Read, Update, Delete) yang lengkap untuk Data Kelas, Siswa, dan Mata Pelajaran.
+- **✍️ Input Nilai Terintegrasi:** Antarmuka penginputan nilai per mata pelajaran dengan validasi otomatis.
+- **📄 Cetak Rapor (PDF):** Menghasilkan laporan hasil belajar siswa yang rapi dan profesional menggunakan standar cetak browser yang telah dioptimalkan.
+- **🎨 UI/UX Modern:** Dibangun menggunakan **Tailwind CSS v4** untuk performa yang sangat ringan dan tampilan estetis.
+- **📱 Responsivitas Penuh:** Dapat diakses secara optimal melalui smartphone, tablet, maupun desktop.
+
+## 🛠️ Teknologi yang Digunakan
+
+- **Library Utama:** [React.js](https://reactjs.org/) (Vite)
+- **Styling Engine:** [Tailwind CSS v4](https://tailwindcss.com/)
+- **Ikonografi:** [Lucide React](https://lucide.dev/)
+- **State Management:** React Hooks (useState, useEffect)
+- **Laporan:** CSS Print Media Queries
+
+## 📦 Cara Instalasi & Menjalankan di Lokal
+
+1. **Clone Repository:**
+   ```bash
+   git clone [https://github.com/aldikayyis/sistem-nilai-sekolah.git](https://github.com/aldikayyis/sistem-nilai-sekolah.git) 
