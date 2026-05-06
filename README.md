@@ -35,6 +35,28 @@ Panel kendali yang menyajikan ringkasan data akademik secara visual, memudahkan 
 
 ## 📦 Cara Instalasi & Menjalankan di Lokal
 
-1. **Clone Repository:**
-   ```bash
-   git clone [https://github.com/aldikayyis/sistem-nilai-sekolah.git](https://github.com/aldikayyis/sistem-nilai-sekolah.git) 
+# 1. Clone Repository
+``` bash
+git clone https://github.com/aldikayyis/sistem-nilai-sekolah.git 
+```
+
+# 2. Masuk ke Direktori
+``` bash
+cd aplikasi-nilai
+```
+# 3. Instal Dependensi
+```bash
+npm install
+```
+# 4.Jalankan Aplikasi:
+```bash
+npm run dev
+```
+# 5. Akses Aplikasi
+Buka browser dan akses http://localhost:5173
+
+---
+🤝 Kontribusi
+Kontribusi selalu terbuka! Jika Anda memiliki saran fitur atau menemukan bug, silakan buka issue atau kirimkan pull request.
+
+Dibuat dengan ❤️ oleh aldikayyis
