@@ -8,13 +8,13 @@ Sistem manajemen nilai akademik berbasis web yang modern dan responsif. Aplikasi
 
 ### 🖥️ Antarmuka Login
 Halaman masuk dengan desain minimalis dan gradien modern untuk memberikan pengalaman pengguna yang elegan.
-![Halaman Login]
+
 <img width="1919" height="911" alt="Screenshot 2026-05-06 192024" src="https://github.com/user-attachments/assets/c38cca2d-6bb6-4b87-827a-2be68c380e4c" />
 
 
 ### 📊 Dashboard Statistik
 Panel kendali yang menyajikan ringkasan data akademik secara visual, memudahkan pemantauan total siswa, kelas, dan progres input nilai.
-![Dashboard Utama]<img width="1919" height="911" alt="Screenshot 2026-05-06 192048" src="https://github.com/user-attachments/assets/e0d166b4-34d5-4081-97ff-ea81b723d444" />
+<img width="1919" height="911" alt="Screenshot 2026-05-06 192048" src="https://github.com/user-attachments/assets/e0d166b4-34d5-4081-97ff-ea81b723d444" />
 
 
 ---
